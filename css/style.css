@@ -216,7 +216,6 @@ nav a {
     .intro_section .row,
     .what_you_need .row {
         flex-direction: column;
-        gap: 50px;
     }
 }
 
@@ -234,14 +233,14 @@ nav a {
 
 /* *********************what_you_need Section Start****************** */
 .what_you_need .container {
-    padding: 5rem 0;
+    padding: 2rem 0;
 }
 
 
 .what_you_need .column {
 
     text-align: center;
-    padding: 5rem;
+    padding: 2rem;
 }
 
 @media (max-width:1024px) {
